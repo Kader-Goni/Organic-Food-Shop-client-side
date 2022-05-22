@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Straberry",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Express",
+    "stock": "3",
+    "quantity": "1",
+    "price": 159,
+    "img": "https://i.ibb.co/WHr4FRY/sp-products12.png"
+  },
+  {
+    "name": "WalNuts Max",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "subtitle": "Strong people",
+    "seller": "Food Express",
+    "stock": "6",
+    "quantity": "1",
+    "price": 129,
+    "img": "https://i.ibb.co/Sy50ThS/sp-products03.png"
+  },
+  {
+    "name": "Capsicum",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Panda",
+    "stock": "6",
+    "quantity": "1",
+    "price": 116,
+    "img": "https://i.ibb.co/QP1JSHw/sp-products11.png"
+  },
+  {
+    "name": "Onion Bens Max",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Express",
+    "stock": "3",
+    "quantity": "1",
+    "price": 115,
+    "img": "https://i.ibb.co/5Md34Xw/sp-products14.png"
+  },
+  {
+    "name": "Potato Max",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food panda",
+    "stock": "5",
+    "quantity": "1",
+    "price": 100,
+    "img": "https://i.ibb.co/r2r8FmL/sp-products06.png"
+  },
+  {
+    "name": "Orange Beens",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Fitness",
+    "stock": "7",
+    "quantity": "1",
+    "price": 123,
+    "img": "https://i.ibb.co/nfXfQhZ/sp-products09.png"
+  },
+  {
+    "name": "Bense Ready Rice",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "subtitle": "Explore The Festures",
+    "price": 115,
+    "seller": "Fitness",
+    "stock": "5",
+    "quantity": "1",
+    "rating": [1, 2, 3, 4, 5],
+    "img": "https://i.ibb.co/5s51BNQ/sp-products01.png"
+  },
+  {
+    "name": "Dannon Max Vanla",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "subtitle": "Ultimate trainings",
+    "price": 145,
+    "seller": "Food panda",
+    "stock": "4",
+    "quantity": "1",
+    "rating": [1, 2, 3, 4, 5],
+    "img": "https://i.ibb.co/Tbz1bXc/sp-products02.png"
+  },
+  {
+    "name": "Uncle Cheeps",
+    "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
+    "seller": "Food Express",
+    "stock": "3",
+    "quantity": "1",
+    "rating": [1, 2, 3, 4, 5],
+    "price": 168,
+    "img": "https://i.ibb.co/kQpsqXS/sp-products04.png"
+  },
+  {
+    "name": "WalNuts max Vanla",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Express",
+    "stock": "4",
+    "quantity": "1",
+    "price": 179,
+    "img": "https://i.ibb.co/wYW6tJv/sp-products10.png"
+  },
+  {
+    "name": "Abergine max",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Fitness",
+    "stock": "5",
+    "quantity": "1",
+    "price": 135,
+    "img": "https://i.ibb.co/dmFZBJN/sp-products13.png"
+  },
+  {
+    "name": "Borokoli Bens Vanla",
+    "title": "“We would  always recommend organic food for reaching your fitness goal.”",
+    "rating": [1, 2, 3, 4, 5],
+    "seller": "Food Panda",
+    "stock": "4",
+    "quantity": "1",
+    "price": 155,
+    "img": "https://i.ibb.co/BrmqKBf/sp-products15.png"
+  }
+]
