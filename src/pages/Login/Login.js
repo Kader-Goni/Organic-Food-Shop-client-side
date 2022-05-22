@@ -63,7 +63,7 @@ const Login = () => {
                 </div>
                 <div className="btn-item">
                     <button type='submit' className='login-btn btn fw-bold'>Login</button>
-                    <p>New to our shop? <Link className='signup-link' to='/signup'>Create New Account</Link> </p>
+                    <p>New to Organic Food Shop? <Link className='signup-link' to='/signup'>Create New Account</Link> </p>
                 </div>
                 <div className="or-item">
                     <div className="item"></div>
