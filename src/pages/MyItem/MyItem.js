@@ -13,7 +13,7 @@ const MyItem = () => {
 
     useEffect(() => {
         const email = user?.email
-        const url = `http://localhost:5000/myProduct?email=${email}`
+        const url = `https://blooming-plains-60014.herokuapp.com/myProduct?email=${email}`
         fetch(url)
         .then(res => res.json())
         .then(data => setMyItem(data))
@@ -23,7 +23,7 @@ const MyItem = () => {
         const prossed = window.confirm('Are YOu sure detele this user')
         if(prossed){
             console.log(id)
-            const url = `http://localhost:5000/product/${id}`;
+            const url = `https://blooming-plains-60014.herokuapp.com/product/${id}`;
             fetch(url, {
                 method: 'DELETE'
             })

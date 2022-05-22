@@ -22,7 +22,7 @@ const AddItem = () => {
         console.log(product)
         
         // send data to the server
-        fetch('http://localhost:5000/product', {
+        fetch('https://blooming-plains-60014.herokuapp.com/product', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

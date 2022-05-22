@@ -32,7 +32,7 @@ const Login = () => {
         event.preventDefault();
         await signInWithEmailAndPassword(email, password)
 
-        fetch('http://localhost:5000/login', {
+        fetch('https://blooming-plains-60014.herokuapp.com/login', {
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

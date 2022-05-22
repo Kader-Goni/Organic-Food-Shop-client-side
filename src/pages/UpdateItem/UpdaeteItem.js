@@ -18,7 +18,7 @@ const UpdaeteItem = ({updateProduct}) => {
     console.log(quantity)
     const {img, name, price, title, seller} = product;
     useEffect(() => {
-        const url = `http://localhost:5000/product/${id}`;
+        const url = `https://blooming-plains-60014.herokuapp.com/product/${id}`;
         fetch(url)
         .then(res => res.json())
         .then(data => {
@@ -42,7 +42,7 @@ const UpdaeteItem = ({updateProduct}) => {
         console.log(stock)
         
         // send data to the server
-        const url = `http://localhost:5000/product/${id}`;
+        const url = `https://blooming-plains-60014.herokuapp.com/product/${id}`;
         fetch(url, {
             method: 'PUT',
             headers: {
@@ -66,7 +66,7 @@ const UpdaeteItem = ({updateProduct}) => {
             stock = 1
         }
         // send data to the server
-        const url = `http://localhost:5000/product/${id}`;
+        const url = `https://blooming-plains-60014.herokuapp.com/product/${id}`;
         fetch(url, {
             method: 'PUT',
             headers: {

@@ -5,7 +5,7 @@ const useProducts = () => {
     const [looding, setLooding] = useState(true)
 
     useEffect(() => {
-        fetch("product.json")
+        fetch("https://blooming-plains-60014.herokuapp.com/product")
         .then(res => res.json())
         .then(data => {
             if(data){
