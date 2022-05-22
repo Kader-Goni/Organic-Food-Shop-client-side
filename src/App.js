@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Route, Routes } from 'react-router-dom';
 import Home from './pages/Home/Home';
 import Navbars from './components/Navbar/Navbars';
-// import Footer from './components/Footer/Footer';
+import Footer from './components/Footer/Footer';
 import Login from './pages/Login/Login';
 import SignUp from './pages/Login/SignUp';
 import Blog from './pages/Blog/Blog';
@@ -58,7 +58,7 @@ function App() {
         <Route path='/signup' element={<SignUp></SignUp>}></Route>
         <Route path='*' element={<Notfound></Notfound>}></Route>
       </Routes>
-      {/* <Footer></Footer> */}
+      <Footer></Footer>
       <ToastContainer />
     </div>
   );
