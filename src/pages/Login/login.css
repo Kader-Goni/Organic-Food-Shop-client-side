@@ -1,0 +1,120 @@
+.login-container{
+    margin: 50px auto;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    width: 460px;
+    text-align: center;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header-login{
+    width: 100%;
+    padding: 10px 0;
+    background-color: tomato;
+    color: #fff;
+}
+.input-item{
+    margin-bottom: 20px;
+}
+.login-container label {
+    display: block;
+    text-align: left;
+    margin-left: 5px;
+    font-size: 16px;
+    color: #454141;
+}
+.login-container input{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    outline: 0;
+    border: 1px solid tomato;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+.login-btn{
+    width: 100%;
+    height: 50px;
+    background-color: #f79620;
+    border-radius: 5px;
+    text-align: center;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: .4s;
+}
+.login-btn:hover{
+    background-color: #d27605;
+    border-radius: 30px;
+}
+.btn-item{
+    margin: 40px 0;
+}
+.btn-item p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* Or item section */
+.or-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.or-item span{
+    margin: 0 10px;
+    font-size: 16px;
+    font-weight: 700;
+}
+.or-item .item{
+    width: 50%;
+    height: 1px;
+    background-color: #f28705;
+    box-sizing: border-box;
+}
+
+.google-sign{
+    display: flex;
+    align-items: center !important;
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid tomato;
+    box-sizing: border-box;
+    font-size: medium;
+    font-weight: 600;
+    cursor: pointer;
+    transition: .4s;
+}
+.google-sign:hover{
+    border-radius: 30px;
+    background-color: #ccc6c6;
+}
+.google-item{
+    margin-bottom: 30px;
+}
+.google{
+    width: 36px;
+    margin: 0 5px;
+}
+
+.signup-link{
+    text-decoration: none;
+    color: blueviolet;
+}
+
+
+
+@media only screen and (max-width: 500px){
+    .login-container{
+        width: 90% !important;
+        box-shadow: 0;
+    }
+}
+@media only screen and (max-width: 360px){
+    .login-container{
+        width: 96% !important;
+    }
+}
