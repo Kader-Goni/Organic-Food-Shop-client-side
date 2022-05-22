@@ -1,0 +1,28 @@
+.footer-container{
+    background-color: #424141;
+}
+.logo{
+    width: 110px;
+    margin: 0 auto;
+}
+.footer{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 30px;
+}
+.footer-item{
+    background-color: #4a4949;
+    padding: 18px;
+    border-radius: 10px;
+}
+.bg-input{
+    background-color: #d9d1a5;
+}
+
+@media only screen and (max-width: 500px){
+    .footer{
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); 
+        grid-gap: 15px !important;
+    }
+}
