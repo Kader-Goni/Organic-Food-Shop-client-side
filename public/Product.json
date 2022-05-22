@@ -1,4 +1,5 @@
 [
+
   {
     "name": "Straberry",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
@@ -9,6 +10,7 @@
     "price": 159,
     "img": "https://i.ibb.co/WHr4FRY/sp-products12.png"
   },
+
   {
     "name": "WalNuts Max",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -19,6 +21,7 @@
     "price": 129,
     "img": "https://i.ibb.co/Sy50ThS/sp-products03.png"
   },
+
   {
     "name": "Capsicum",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
@@ -29,6 +32,7 @@
     "price": 116,
     "img": "https://i.ibb.co/QP1JSHw/sp-products11.png"
   },
+
   {
     "name": "Onion Bens Max",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
@@ -39,6 +43,7 @@
     "price": 115,
     "img": "https://i.ibb.co/5Md34Xw/sp-products14.png"
   },
+
   {
     "name": "Potato Max",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -49,6 +54,7 @@
     "price": 100,
     "img": "https://i.ibb.co/r2r8FmL/sp-products06.png"
   },
+
   {
     "name": "Orange Beens",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -59,6 +65,7 @@
     "price": 123,
     "img": "https://i.ibb.co/nfXfQhZ/sp-products09.png"
   },
+
   {
     "name": "Bense Ready Rice",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -70,6 +77,7 @@
     "rating": [1, 2, 3, 4, 5],
     "img": "https://i.ibb.co/5s51BNQ/sp-products01.png"
   },
+
   {
     "name": "Dannon Max Vanla",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -81,6 +89,7 @@
     "rating": [1, 2, 3, 4, 5],
     "img": "https://i.ibb.co/Tbz1bXc/sp-products02.png"
   },
+
   {
     "name": "Uncle Cheeps",
     "title": "“We anywhere recommend organic food for reaching your fitness goal.”",
@@ -91,6 +100,7 @@
     "price": 168,
     "img": "https://i.ibb.co/kQpsqXS/sp-products04.png"
   },
+
   {
     "name": "WalNuts max Vanla",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
@@ -101,6 +111,7 @@
     "price": 179,
     "img": "https://i.ibb.co/wYW6tJv/sp-products10.png"
   },
+
   {
     "name": "Abergine max",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
@@ -111,6 +122,7 @@
     "price": 135,
     "img": "https://i.ibb.co/dmFZBJN/sp-products13.png"
   },
+  
   {
     "name": "Borokoli Bens Vanla",
     "title": "“We would  always recommend organic food for reaching your fitness goal.”",
