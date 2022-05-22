@@ -1,0 +1,88 @@
+.logo{
+    width: 110px;
+}
+.bg-nav{
+    background-color: #959692;
+}
+.sign-btn{
+    background-color: tomato;
+    padding: 5px 14px;
+    color: #fff;
+}
+.actived-link{
+    text-decoration: underline;
+    font-weight: 700;
+    font-size: 20px;
+    color: tomato;
+    text-underline-offset: 5px;
+    position: relative;
+    margin: 0 10px;
+}
+.linkd{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    color: #fff;
+    margin: 0 10px;
+}
+.cart-count{
+    position: absolute;
+    font-size: 12px;
+    font-weight: 400;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: tomato;
+    color: #fff;
+    top: -40%; right: -50%;
+}
+.user-profile{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    position: relative;
+}
+.edite-profile{
+    position: absolute;
+    width: 150px;
+    padding: 10px;
+    background-color: #f1f0ff;
+    top: 48px;
+    right: -30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #767575;
+    text-align: left;
+    z-index: 9999;
+    color: #626161;
+}
+.profile{
+    border-bottom: 2px solid gray;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.profile .p-img{
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: #f6bdbd;
+
+}
+.opacity-1{
+    opacity: -1;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.opacity-10{
+    opacity: 1;
+}
+.cursor{
+    cursor: pointer;
+}
