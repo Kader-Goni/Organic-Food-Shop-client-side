@@ -32,10 +32,10 @@ const displayTaggle = () => {
         setToggle('none')
     }
 }
-console.log(user?.photoURL)
+// console.log(user?.photoURL)
 
 
-console.log(toggle)
+// console.log(toggle)
     return (
         <div>
             <Navbar sticky="top" bg="" className={`bg-nav`} expand="lg">
